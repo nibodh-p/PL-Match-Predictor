@@ -1,5 +1,5 @@
 # PL-Match-Predictor
-Initial upload of Premier League match analysis notebook and dataset.
+A predictive sports analytics model utilizing multi-variable classification and historical performance data to forecast Premier League Match outcomes. 
 # Premier League Match Predictor
 
 A data analysis project that uses Python to forecast the probability of Premier League match outcomes.
